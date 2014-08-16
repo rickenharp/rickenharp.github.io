@@ -4,7 +4,7 @@
   <title><![CDATA[Yet Another Blog]]></title>
   <link href="http://rickenharp.github.io/atom.xml" rel="self"/>
   <link href="http://rickenharp.github.io/"/>
-  <updated>2014-08-16T14:52:04+02:00</updated>
+  <updated>2014-08-16T15:03:15+02:00</updated>
   <id>http://rickenharp.github.io/</id>
   <author>
     <name><![CDATA[Alexander Gräfe]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A New Hope]]></title>
+    <link href="http://rickenharp.github.io/blog/2014/08/16/a-new-hope/"/>
+    <updated>2014-08-16T15:01:02+02:00</updated>
+    <id>http://rickenharp.github.io/blog/2014/08/16/a-new-hope</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.</p>
+]]></content>
+  </entry>
   
 </feed>
